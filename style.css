@@ -1,8 +1,8 @@
-html { background-image: url("fonts/CSGO Prop.jpeg"); 
-}
 @font-face {
    font-family: myFirstFont;
    src: url(fonts/cs_regular.ttf);
+}
+html, body { background-image: url("fonts/CSGO Prop.jpeg"); 
 }
 .button {
   border: none;
