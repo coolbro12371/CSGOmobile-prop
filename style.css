@@ -1,7 +1,3 @@
-@font-face {
-   font-family: myFirstFont;
-   src: url(fonts/cs_regular.ttf);
-}
 html, head, body { background-image: url("fonts/CSGO Prop.jpeg"); 
 }
 .button {
@@ -42,4 +38,8 @@ html, head, body { background-image: url("fonts/CSGO Prop.jpeg");
   left: 50%;
   position: absolute;
   font-family: myFirstFont;
+}
+@font-face {
+   font-family: myFirstFont;
+   src: url(fonts/cs_regular.ttf);
 }
