@@ -17,22 +17,25 @@ html { background-image: url("https://steamuserimages-a.akamaihd.net/ugc/2503508
   bottom: -1%;
   left: 30.3%;
   position: absolute;
-  font-family: My Custom Font;
+  font-family: myFirstFont;
 }
 .button2 {
   background-color: rgb(182, 180, 180);
   bottom: -1%;
   left: 34.6%;
   position: absolute;
+  font-family: myFirstFont;
 }
 .button3 {
   background-color: rgb(182, 180, 180);
   bottom: -1%;
   left: 38.9%;
   position: absolute;
+  font-family: myFirstFont;
 }
 .button4 {
   background-color: rgb(182, 180, 180);
   left: 50%;
   position: absolute;
+  font-family: myFirstFont;
 }
