@@ -2,7 +2,7 @@
    font-family: myFirstFont;
    src: url(fonts/cs_regular.ttf);
 }
-html, body { background-image: url("fonts/CSGO Prop.jpeg"); 
+html, head, body { background-image: url("fonts/CSGO Prop.jpeg"); 
 }
 .button {
   border: none;
