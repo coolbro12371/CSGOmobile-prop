@@ -1,6 +1,6 @@
 @font-face {
     font-family: "My Custom Font";
-    src: url("/fonts/");
+    src: url("fonts/cs_regular.ttf");
 }
 html { background-image: url("https://steamuserimages-a.akamaihd.net/ugc/2503508097937438570/BA43BA7CA1F847CE54BF340B4D3D6AB3437D8EE9/?imw=512&imh=512&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true"); 
 }
@@ -32,7 +32,8 @@ html { background-image: url("https://steamuserimages-a.akamaihd.net/ugc/2503508
 }
 .button3 {
   background-color: rgb(182, 180, 180);
-  left: 50%;
+  bottom: -1%;
+  left: 38.9%;
   position: absolute;
 }
 .button4 {
